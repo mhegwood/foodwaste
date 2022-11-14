@@ -1,0 +1,64 @@
+food type,income group,supply elasticity,demand elasticity,green food type,demand elasticity type
+Cereals,Low,0.29,-0.66,Cereals,low
+Roots and Tubers,Low,0.29,-0.66,Cereals,low
+Oilcrops and Pulses,Low,0.29,-1.01,Fats and Oils,low
+Fruits and Vegetables,Low,0.29,-0.77,Fruits and Vegetables,low
+Meat,Low,0.49,-0.83,Meat,low
+Fish and Seafood,Low,0.49,-0.85,Fish,low
+Milk,Low,0.49,-0.84,Dairy,low
+Cereals,Middle,0.29,-0.61,Cereals,low
+Roots and Tubers,Middle,0.29,-0.61,Cereals,low
+Oilcrops and Pulses,Middle,0.29,-0.95,Fats and Oils,low
+Fruits and Vegetables,Middle,0.29,-0.71,Fruits and Vegetables,low
+Meat,Middle,0.49,-0.78,Meat,low
+Fish and Seafood,Middle,0.49,-0.79,Fish,low
+Milk,Middle,0.49,-0.78,Dairy,low
+Cereals,High,0.33,-0.48,Cereals,low
+Roots and Tubers,High,0.33,-0.48,Cereals,low
+Oilcrops and Pulses,High,0.33,-0.83,Fats and Oils,low
+Fruits and Vegetables,High,0.33,-0.59,Fruits and Vegetables,low
+Meat,High,0.615,-0.66,Meat,low
+Fish and Seafood,High,0.615,-0.67,Fish,low
+Milk,High,0.615,-0.66,Milk,low
+Cereals,Low,0.29,-0.61,Cereals,middle
+Roots and Tubers,Low,0.29,-0.61,Cereals,middle
+Oilcrops and Pulses,Low,0.29,-0.95,Fats and Oils,middle
+Fruits and Vegetables,Low,0.29,-0.72,Fruits and Vegetables,middle
+Meat,Low,0.49,-0.78,Meat,middle
+Fish and Seafood,Low,0.49,-0.8,Fish,middle
+Milk,Low,0.49,-0.78,Dairy,middle
+Cereals,Middle,0.29,-0.55,Cereals,middle
+Roots and Tubers,Middle,0.29,-0.55,Cereals,middle
+Oilcrops and Pulses,Middle,0.29,-0.89,Fats and Oils,middle
+Fruits and Vegetables,Middle,0.29,-0.65,Fruits and Vegetables,middle
+Meat,Middle,0.49,-0.72,Meat,middle
+Fish and Seafood,Middle,0.49,-0.73,Fish,middle
+Milk,Middle,0.49,-0.72,Dairy,middle
+Cereals,High,0.33,-0.43,Cereals,middle
+Roots and Tubers,High,0.33,-0.43,Cereals,middle
+Oilcrops and Pulses,High,0.33,-0.77,Fats and Oils,middle
+Fruits and Vegetables,High,0.33,-0.53,Fruits and Vegetables,middle
+Meat,High,0.615,-0.6,Meat,middle
+Fish and Seafood,High,0.615,-0.61,Fish,middle
+Milk,High,0.615,-0.6,Milk,middle
+Cereals,Low,0.29,-0.56,Cereals,High
+Roots and Tubers,Low,0.29,-0.56,Cereals,High
+Oilcrops and Pulses,Low,0.29,-0.9,Fats and Oils,High
+Fruits and Vegetables,Low,0.29,-0.66,Fruits and Vegetables,High
+Meat,Low,0.49,-0.73,Meat,High
+Fish and Seafood,Low,0.49,-0.74,Fish,High
+Milk,Low,0.49,-0.73,Dairy,High
+Cereals,Middle,0.29,-0.49,Cereals,High
+Roots and Tubers,Middle,0.29,-0.49,Cereals,High
+Oilcrops and Pulses,Middle,0.29,-0.83,Fats and Oils,High
+Fruits and Vegetables,Middle,0.29,-0.59,Fruits and Vegetables,High
+Meat,Middle,0.49,-0.66,Meat,High
+Fish and Seafood,Middle,0.49,-0.67,Fish,High
+Milk,Middle,0.49,-0.66,Dairy,High
+Cereals,High,0.33,-0.36,Cereals,High
+Roots and Tubers,High,0.33,-0.36,Cereals,High
+Oilcrops and Pulses,High,0.33,-0.71,Fats and Oils,High
+Fruits and Vegetables,High,0.33,-0.48,Fruits and Vegetables,High
+Meat,High,0.615,-0.54,Meat,High
+Fish and Seafood,High,0.615,-0.55,Fish,High
+Milk,High,0.615,-0.54,Milk,High
